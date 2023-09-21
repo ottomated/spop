@@ -1,0 +1,8 @@
+{
+	"name": "spop",
+	"type": "module",
+	"author": "Ottomated",
+	"version": "1.0.1",
+	"description": "a tiny svelte popover component",
+	"license": "ISC"
+}
